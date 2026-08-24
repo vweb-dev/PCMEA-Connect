@@ -1,0 +1,9 @@
+{
+  "name": "PCMEA Connect",
+  "short_name": "PCMEA",
+  "description": "A central information and resource hub for members of the Pakistan Carpet Manufacturers and Exporters Association.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F5DC",
+  "theme_color": "#c26813"
+}
